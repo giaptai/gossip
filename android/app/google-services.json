@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "302622152430",
+    "project_id": "gossip-data-84d31",
+    "storage_bucket": "gossip-data-84d31.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302622152430:android:0af1b44aeb2b8e26a585ff",
+        "android_client_info": {
+          "package_name": "com.example.gossip_v01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUBzVg8YwibUZcJUSa7TgxoUMommYdjpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
